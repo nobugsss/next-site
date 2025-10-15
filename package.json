@@ -13,8 +13,8 @@
     "@opentelemetry/instrumentation": "^0.206.0",
     "@opentelemetry/sdk-logs": "^0.206.0",
     "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/postcss": "^4.1.14",
     "@vercel/otel": "^2.0.1",
-    "autoprefixer": "10.4.20",
     "bcrypt": "^5.1.1",
     "clsx": "^2.1.1",
     "next": "latest",
@@ -24,7 +24,7 @@
     "react": "latest",
     "react-dom": "latest",
     "redis": "^5.8.3",
-    "tailwindcss": "3.4.17",
+    "tailwindcss": "4.1.14",
     "typescript": "5.7.3",
     "use-debounce": "^10.0.4",
     "zod": "^3.25.17"
